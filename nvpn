@@ -20,3 +20,4 @@ vless://dbb7233e-d615-4e80-bcb0-d426ed4f4c25@cp2.independenttherapeutics.com:844
 vless://de04add9-5c68-8bab-950c-08cd5320df18@unlimitedqu6w.eu-ccofhtfzmvsd.dopraxapp.com:443?security=tls&type=ws&path=/vless#NUN+vpn
 vless://3f612257-ce8f-437b-ac95-01217fd3ca7d@cp3.independenttherapeutics.com:8443?sni=cp3.independenttherapeutics.com&security=tls&type=ws&path=/&host=cp3.independenttherapeutics.com#NUN%20vpn
 vless://a4f7a5ea-6448-490b-994b-33972a6363c5@cp6.independenttherapeutics.com:8443?sni=cp6.independenttherapeutics.com&security=tls&type=ws&path=/&host=cp6.independenttherapeutics.com#NUN%20vpn
+vmess://ewogICAgImFkZCI6ICI5MS4xMDcuMTg2LjIwNyIsCiAgICAiYWlkIjogIjAiLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICIyMmZhZWMwYS1hOThhLTRiNzQtYzE5Yi0wMWFkMDk1OTYzZDQiLAogICAgIm5ldCI6ICJ0Y3AiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6ICI0NDMiLAogICAgInBzIjogIk5VTiB2cG4iLAogICAgInNjeSI6ICJhdXRvIiwKICAgICJzbmkiOiAiIiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImh0dHAiLAogICAgInYiOiAiMiIKfQo=
