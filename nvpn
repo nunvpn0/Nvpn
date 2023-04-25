@@ -17,3 +17,5 @@ vless://7bc74a8c-4e88-440e-bd16-d2602f29990f@kiwi.com:443?security=tls&sni=charo
 vless://7bc74a8c-4e88-440e-bd16-d2602f29990f@kiwi.com:443?security=tls&sni=charon-k948.onrender.com&type=ws&path=/&host=charon-k948.onrender.com#NUN+vpn(P)
 vless://7bc74a8c-4e88-440e-bd16-d2602f29990f@kiwi.com:443?security=tls&sni=charon-k948.onrender.com&type=ws&path=/&host=charon-k948.onrender.com#NUN+vpn(de)
 vless://7bc74a8c-4e88-440e-bd16-d2602f29990f@kiwi.com:443?security=tls&sni=charon-k948.onrender.com&type=ws&path=/&host=charon-k948.onrender.com#NUN+vpn(de)
+trojan://255c924c-1314-4084-9a9e-1d1a82a5cf49@us2.trojanvh.xyz:80?security=tls&type=tcp#NUN%20vpn
+trojan://255c924c-1314-4084-9a9e-1d1a82a5cf49@us2.trojanvh.xyz:80?security=tls&type=tcp#NUN%20vpn
