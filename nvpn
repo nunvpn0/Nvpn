@@ -3,10 +3,8 @@ vless://de04add9-5c68-8bab-950c-08cd5320df18@unlimitedkrza.eu-hhwtruiofdjd.dopra
 vless://de04add9-5c68-8bab-950c-08cd5320df18@unlimitedkrza.eu-hhwtruiofdjd.dopraxrocks.net:443?security=tls&type=ws&path=/vless#NUN%20vpn
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@145.239.1.100:7001#NUN+vpn(instagram,tel,youtube)
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@145.239.1.100:8118#NUN+vpn(instagram,tel,youtube)
-trojan://255c924c-1314-4084-9a9e-1d1a82a5cf49@us2.trojanvh.xyz:80?security=tls&type=tcp#NUN%20vpn
-trojan://255c924c-1314-4084-9a9e-1d1a82a5cf49@us2.trojanvh.xyz:80?security=tls&type=tcp#NUN%20vpn
-vmess://ewogICAgImFkZCI6ICJraXdpLmNvbSIsCiAgICAiYWlkIjogIjAiLAogICAgImhvc3QiOiAiYjMuaXJhbmlhbmNwLmF1dG9zIiwKICAgICJpZCI6ICI0NGM0NjdhOS04ZjBkLTQxYTUtZjAwYi04NjU2OTc1M2U1YjAiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvP2VkPTIwNDgiLAogICAgInBvcnQiOiAiODAiLAogICAgInBzIjogIk5VTiB2cG4iLAogICAgInNjeSI6ICJhdXRvIiwKICAgICJzbmkiOiAiIiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogIiIsCiAgICAidiI6ICIyIgp9Cg==
-vless://de04add9-5c68-8bab-950c-08cd5320df18@kiwi.com:443?security=tls&sni=2f5a3f02.cloudflare-pages-dvf.pages.dev&type=ws&path=/vless&host=cloudflare-pages-dvf.pages.dev#NUN+vpn
+vmess://ewogICAgImFkZCI6ICJjbG91ZGZsYXJlY2xpZW50LmNvbSIsCiAgICAiYWlkIjogIjAiLAogICAgImhvc3QiOiAiYjMuaXJhbmlhbmNwLmF1dG9zIiwKICAgICJpZCI6ICI0NGM0NjdhOS04ZjBkLTQxYTUtZjAwYi04NjU2OTc1M2U1YjAiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvP2VkPTIwNDgiLAogICAgInBvcnQiOiAiODAiLAogICAgInBzIjogIk5VTiB2cG4iLAogICAgInNjeSI6ICJhdXRvIiwKICAgICJzbmkiOiAiIiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogIiIsCiAgICAidiI6ICIyIgp9Cg==
+vless://de04add9-5c68-8bab-950c-08cd5320df18@cloudflareclient.com:443?security=tls&sni=2f5a3f02.cloudflare-pages-dvf.pages.dev&type=ws&path=/vless&host=cloudflare-pages-dvf.pages.dev#NUN+vpn
 vless://7bc74a8c-4e88-440e-bd16-d2602f29990f@kiwi.com:443?security=tls&sni=charon-k948.onrender.com&type=ws&path=/&host=charon-k948.onrender.com#NUN+vpn(P)
 vless://7bc74a8c-4e88-440e-bd16-d2602f29990f@kiwi.com:443?security=tls&sni=charon-k948.onrender.com&type=ws&path=/&host=charon-k948.onrender.com#NUN+vpn(P)
 vless://7bc74a8c-4e88-440e-bd16-d2602f29990f@kiwi.com:443?security=tls&sni=charon-k948.onrender.com&type=ws&path=/&host=charon-k948.onrender.com#NUN+vpn(de)
@@ -18,4 +16,3 @@ vless://2e345149-3766-482b-eb26-db8e0f7f4ec0@cp3.independenttherapeutics.com:844
 vless://1e8d26b2-6ebe-4932-e178-8154b467063f@cp4.independenttherapeutics.com:8443?security=tls&sni=cp4.independenttherapeutics.com&type=ws&path=/&host=cp4.independenttherapeutics.com#NUN%20vpn
 vless://c63579dc-ba9e-4139-d74d-b0ddf7aaa3ef@cp6.independenttherapeutics.com:8443?security=tls&sni=cp6.independenttherapeutics.com&type=ws&path=/&host=cp6.independenttherapeutics.com#NUN%20vpn
 vmess://ewogICAgImFkZCI6ICI1MS4xOTUuMzUuMTQ3IiwKICAgICJhaWQiOiAiNjQiLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLAogICAgIm5ldCI6ICJ0Y3AiLAogICAgInBhdGgiOiAiIiwKICAgICJwb3J0IjogIjU4ODEyIiwKICAgICJwcyI6ICJOVU4gdnBuIiwKICAgICJzY3kiOiAiYXV0byIsCiAgICAic25pIjogIiIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICIiLAogICAgInYiOiAiMiIKfQo=
-vmess://ewogICAgImFkZCI6ICJjbG91ZGZsYXJlY2xpZW50LmNvbSIsCiAgICAiYWlkIjogIjAiLAogICAgImhvc3QiOiAiYjMuaXJhbmlhbmNwLmF1dG9zIiwKICAgICJpZCI6ICI0NGM0NjdhOS04ZjBkLTQxYTUtZjAwYi04NjU2OTc1M2U1YjAiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvP2VkPTIwNDgiLAogICAgInBvcnQiOiAiODAiLAogICAgInBzIjogIk5VTiB2cG4iLAogICAgInNjeSI6ICJhdXRvIiwKICAgICJzbmkiOiAiIiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogIiIsCiAgICAidiI6ICIyIgp9Cg==
