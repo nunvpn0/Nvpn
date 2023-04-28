@@ -16,5 +16,6 @@ trojan://id-telegram-tehron98-id-telegram-tehron98-id-telegram-tehron98@[::ffff:
 vless://fc03933c-9b0b-4eab-9c5f-626ea67c5bff@maeve.ns.cloudflare.com:8443?security=tls&sni=iraniancp.autos&type=ws&path=/?ed%3D2048&host=b4.iraniancp.autos#NUN+vpn
 vless://7379eb18-959d-4b33-ddf7-e9369a0e1769@170.114.46.173:443?security=tls&sni=ger.vwfghin.info&type=grpc#NUN+vpn
 vless://7379eb18-959d-4b33-ddf7-e9369a0e1769@170.114.46.83:443?security=tls&sni=ger.vwfghin.info&type=grpc#NUN+vpn
-vless://17fbb3a0-7cba-4e0c-ae81-c3fa2c6ca9c6@kiwi.com:443?security=tls&sni=azkan.onrender.com&type=ws&path=/&host=azkan.onrender.com#NUN%20vpn(Gr)
+vless://17fbb3a0-7cba-4e0c-ae81-c3fa2c6ca9c6@speed.cloudflare.com:443?security=tls&sni=azkan.onrender.com&type=ws&path=/&host=azkan.onrender.com#NUN%20vpn(Gr)
 vless://17fbb3a0-7cba-4e0c-ae81-c3fa2c6ca9c6@support.cloudflare.com:443?security=tls&sni=azkan.onrender.com&type=ws&path=/&host=azkan.onrender.com#NUN%20vpn(Gr)
+trojan://1e5fba98-deac-4fae-ac2f-c055e7810668@wfi.sahnama.com:443?security=tls&sni=wfi.sahnama.com&type=tcp#NUN%20vpn
