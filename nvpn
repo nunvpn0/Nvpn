@@ -19,3 +19,4 @@ vless://7379eb18-959d-4b33-ddf7-e9369a0e1769@170.114.46.83:443?security=tls&sni=
 vless://17fbb3a0-7cba-4e0c-ae81-c3fa2c6ca9c6@speed.cloudflare.com:443?security=tls&sni=azkan.onrender.com&type=ws&path=/&host=azkan.onrender.com#NUN%20vpn(Gr)
 vless://17fbb3a0-7cba-4e0c-ae81-c3fa2c6ca9c6@support.cloudflare.com:443?security=tls&sni=azkan.onrender.com&type=ws&path=/&host=azkan.onrender.com#NUN%20vpn(Gr)
 trojan://1e5fba98-deac-4fae-ac2f-c055e7810668@wfi.sahnama.com:443?security=tls&sni=wfi.sahnama.com&type=tcp#NUN%20vpn
+vmess://eyJhZGQiOiI5MS4xMDcuMTM0Ljg5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQ2MTdiZDJhLTQ1N2MtNDMyNi1lNDI5LTM0M2I3NmNkMjc0OCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjQ0MyIsInBzIjoiTlVOIHZwbiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
