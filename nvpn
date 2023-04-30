@@ -20,3 +20,5 @@ vless://17fbb3a0-7cba-4e0c-ae81-c3fa2c6ca9c6@speed.cloudflare.com:443?security=t
 vless://17fbb3a0-7cba-4e0c-ae81-c3fa2c6ca9c6@support.cloudflare.com:443?security=tls&sni=azkan.onrender.com&type=ws&path=/&host=azkan.onrender.com#NUN%20vpn(Gr)
 trojan://1e5fba98-deac-4fae-ac2f-c055e7810668@wfi.sahnama.com:443?security=tls&sni=wfi.sahnama.com&type=tcp#NUN%20vpn
 vmess://eyJhZGQiOiI5MS4xMDcuMTM0Ljg5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQ2MTdiZDJhLTQ1N2MtNDMyNi1lNDI5LTM0M2I3NmNkMjc0OCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjQ0MyIsInBzIjoiTlVOIHZwbiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
+vless://a19090ac-d5d2-4a85-9a4b-b62de5483917@yat.olemam.shop:5555?security=none&encryption=none&host=bmi.ir&headerType=http&type=tcp#NUN+vpn
+vless://0f7caa25-f2b5-4e5e-a40b-37d3585b434f@yat.olemam.shop:31826?security=none&encryption=none&host=bmi.ir&headerType=http&type=tcp#NUN+vpn
