@@ -11,3 +11,7 @@ vless://f88c3cfb-5a46-455d-b26d-601efa1cfd24@13.224.103.71:443?security=tls&sni=
 vless://f88c3cfb-5a46-455d-b26d-601efa1cfd24@52.222.214.27:80?security=&type=ws&path=/ws&host=d2kj8j6y8t9b0m.cloudfront.net#NUN+vpn
 vless://f88c3cfb-5a46-455d-b26d-601efa1cfd24@13.33.243.77:443?security=tls&sni=d2kj8j6y8t9b0m.cloudfront.net&type=ws&path=/ws&host=d2kj8j6y8t9b0m.cloudfront.net#NUN+vpn
 vless://f88c3cfb-5a46-455d-b26d-601efa1cfd24@figma.com:443?security=tls&sni=d2kj8j6y8t9b0m.cloudfront.net&type=ws&path=/ws&host=d2kj8j6y8t9b0m.cloudfront.net#NUN+vpn
+------------------------------------------------------------------------------------------------------------------------
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@145.239.1.100:6679#NUN%20vpn
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@145.239.1.100:7002#NUN%20vpn
+--------------------------------------------------------------------------------------------------------------------
