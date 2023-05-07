@@ -30,3 +30,8 @@ vless://cbf0d5e6-0ae2-43a7-bbdf-5eff1176da77@yat.olemam.shop:42341?security=&typ
 vless://b84b388f-6409-4bbf-cfd7-9c5d44979062@yat.olemam.shop:29624?security=&type=tcp&headerType=http&host=bmi.ir#NUN%20vpn
 vless://cbf0d5e6-0ae2-43a7-bbdf-5eff1176da77@yat.olemam.shop:42337?security=none&encryption=none&host=bmi.ir&headerType=http&type=tcp#NUN+vpn
 vless://b84b388f-6409-4bbf-cfd7-9c5d44979062@yat.olemam.shop:29620?security=none&encryption=none&host=bmi.ir&headerType=http&type=tcp#NUN+vpn
+-----------------------------------------------
+vless://f88c3cfb-5a46-455d-b26d-601efa1cfd24@13.224.103.71:443?path=%2Fws&security=tls&encryption=none&host=d2kj8j6y8t9b0m.cloudfront.net&fp=chrome&type=ws&sni=d2kj8j6y8t9b0m.cloudfront.net#NUN+vpn
+vless://f88c3cfb-5a46-455d-b26d-601efa1cfd24@52.222.214.27:80?path=%2Fws&security=none&encryption=none&host=d2kj8j6y8t9b0m.cloudfront.net&type=ws#NUN+vpn
+vless://f88c3cfb-5a46-455d-b26d-601efa1cfd24@13.33.243.77:443?path=%2Fws&security=tls&encryption=none&host=d2kj8j6y8t9b0m.cloudfront.net&fp=chrome&type=ws&sni=d2kj8j6y8t9b0m.cloudfront.net#NUN+vpn
+vless://f88c3cfb-5a46-455d-b26d-601efa1cfd24@figma.com:443?path=%2Fws&security=tls&encryption=none&host=d2kj8j6y8t9b0m.cloudfront.net&fp=chrome&type=ws&sni=d2kj8j6y8t9b0m.cloudfront.net#NUN+vpn
