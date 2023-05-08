@@ -15,12 +15,9 @@ vless://f88c3cfb-5a46-455d-b26d-601efa1cfd24@figma.com:443?security=tls&sni=d2kj
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@145.239.1.100:6679#NUN%20vpn
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@145.239.1.100:7002#NUN%20vpn
 ---------------------------------------worker MTN-----------------------------------------------------------------------------
-vless://6deb272b-ee60-445f-d2bc-20ee86d91512@tay.olemam.shop:47250?security=&type=tcp&headerType=http&host=bmi.ir#NUN%20vpn
-vless://5c5641ee-8a0f-4618-ecfd-eb2244bab7ed@tay.olemam.shop:42769?security=&type=tcp&headerType=http&host=bmi.ir#NUN%20vpn
-vless://c85ce4e3-41e4-4900-8f54-96b6e587b0bd@tay.olemam.shop:16042?security=&type=tcp&headerType=http&host=bmi.ir#NUN%20vpn
-vless://6deb272b-ee60-445f-d2bc-20ee86d91512@tay.olemam.shop:47250?security=&type=tcp&headerType=http&host=bmi.ir#NUN%20vpn
-vless://5c5641ee-8a0f-4618-ecfd-eb2244bab7ed@tay.olemam.shop:42769?security=&type=tcp&headerType=http&host=bmi.ir#NUN%20vpn
-vless://c85ce4e3-41e4-4900-8f54-96b6e587b0bd@tay.olemam.shop:16042?security=&type=tcp&headerType=http&host=bmi.ir#NUN%20vpn
+vless://6deb272b-ee60-445f-d2bc-20ee86d91512@yat.olemam.shop:47249?security=none&encryption=none&host=bmi.ir&headerType=http&type=tcp#NUN+vpn
+vless://5c5641ee-8a0f-4618-ecfd-eb2244bab7ed@yat.olemam.shop:42768?security=none&encryption=none&host=bmi.ir&headerType=http&type=tcp#NUN+vpn
+vless://c85ce4e3-41e4-4900-8f54-96b6e587b0bd@yat.olemam.shop:16041?security=none&encryption=none&host=bmi.ir&headerType=http&type=tcp#NUN+vpn
 _____________________________________worker MKH_____________________________________
 vmess://eyJhZGQiOiIxMDQuMjQuODAuMTA3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJsaXR0bGUtZGlzay1iOTYzLmtpbW1ld3Nlb2swNjcwNzcud29ya2Vycy5kZXYiLCJpZCI6IjkyNzA5NGQzLWQ2NzgtNDc2My04NTkxLWUyNDBkMGJjYWU4NyIsIm5ldCI6IndzIiwicGF0aCI6Ii92ZGUyLjBiYWQuY29tOjQ0My9jaGF0IiwicG9ydCI6IjQ0MyIsInBzIjoiTlVOIHZwbiIsInNjeSI6ImF1dG8iLCJzbmkiOiJsaXR0bGUtZGlzay1iOTYzLmtpbW1ld3Nlb2swNjcwNzcud29ya2Vycy5kZXYiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiI5NS4xNzkuMjQ3LjcxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJsaXR0bGUtZGlzay1iOTYzLmtpbW1ld3Nlb2swNjcwNzcud29ya2Vycy5kZXYiLCJpZCI6IjkyNzA5NGQzLWQ2NzgtNDc2My04NTkxLWUyNDBkMGJjYWU4NyIsIm5ldCI6IndzIiwicGF0aCI6Ii92ZGUyLjBiYWQuY29tOjQ0My9jaGF0IiwicG9ydCI6IjQ0MyIsInBzIjoiTlVOIHZwbiIsInNjeSI6ImF1dG8iLCJzbmkiOiJsaXR0bGUtZGlzay1iOTYzLmtpbW1ld3Nlb2swNjcwNzcud29ya2Vycy5kZXYiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
