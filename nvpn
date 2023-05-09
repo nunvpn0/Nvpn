@@ -15,11 +15,10 @@ vless://f88c3cfb-5a46-455d-b26d-601efa1cfd24@figma.com:443?security=tls&sni=d2kj
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@145.239.1.100:6679#NUN%20vpn
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@145.239.1.100:7002#NUN%20vpn
 ---------------------------------------ir MTN-----------------------------------------------------------------------------
-vless://ba189876-6fcd-4c43-bffb-d0e44c2feccb@cp2.independenttherapeutics.com:8443?path=%2Fclient-area&security=tls&encryption=none&alpn=http/1.1&host=cp2.independenttherapeutics.com&fp=chrome&type=ws&sni=cp2.independenttherapeutics.com#NUN+vpn
-vless://3558173a-e358-4224-d7a1-6e5d2e41f699@cp4.independenttherapeutics.com:8443?path=%2Fclient-area&security=tls&encryption=none&alpn=http/1.1&host=cp4.independenttherapeutics.com&fp=chrome&type=ws&sni=cp4.independenttherapeutics.com#NUN+vpn
-vmess://eyJhZGQiOiI1MS42OC4xNjQuMjM2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ0Z2p1Lm9yZyIsImlkIjoiNzk1MTQ1MTYtMmI1NS00MjI0LWI5ZGQtMjU3MTc1Yzg1NDgwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiNDQ5MDUiLCJwcyI6Ik5VTiB2cG4iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
-vless://4f6dbe6f-cb37-4a28-8dc5-6e4dedbbe958@cp1.independenttherapeutics.com:8443?path=%2Fclient-area&security=tls&encryption=none&alpn=http/1.1&host=cp1.independenttherapeutics.com&fp=chrome&type=ws&sni=cp1.independenttherapeutics.com#NUN+vpn
-
+vless://6deb272b-ee60-445f-d2bc-20ee86d91512@yat.olemam.shop:47246?type=tcp&path=%2F&host=fast.com&headerType=http#NUN+vpn
+vless://5c5641ee-8a0f-4618-ecfd-eb2244bab7ed@yat.olemam.shop:42765?type=tcp&path=%2F&host=fast.com&headerType=http#NUN+vpn
+vless://c85ce4e3-41e4-4900-8f54-96b6e587b0bd@yat.olemam.shop:16038?type=tcp&path=%2F&host=fast.com&headerType=http#NUN+vpn
+vless://981b98b3-004f-4e08-b1df-f1be63303149@yat.olemam.shop:51979?type=tcp&path=%2F&host=zula.ir&headerType=http#NUN+vpn
 __________________________________worker MKH_____________________________________
 vmess://eyJhZGQiOiIxMDQuMjQuODAuMTA3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJsaXR0bGUtZGlzay1iOTYzLmtpbW1ld3Nlb2swNjcwNzcud29ya2Vycy5kZXYiLCJpZCI6IjkyNzA5NGQzLWQ2NzgtNDc2My04NTkxLWUyNDBkMGJjYWU4NyIsIm5ldCI6IndzIiwicGF0aCI6Ii92ZGUyLjBiYWQuY29tOjQ0My9jaGF0IiwicG9ydCI6IjQ0MyIsInBzIjoiTlVOIHZwbiIsInNjeSI6ImF1dG8iLCJzbmkiOiJsaXR0bGUtZGlzay1iOTYzLmtpbW1ld3Nlb2swNjcwNzcud29ya2Vycy5kZXYiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiI5NS4xNzkuMjQ3LjcxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJsaXR0bGUtZGlzay1iOTYzLmtpbW1ld3Nlb2swNjcwNzcud29ya2Vycy5kZXYiLCJpZCI6IjkyNzA5NGQzLWQ2NzgtNDc2My04NTkxLWUyNDBkMGJjYWU4NyIsIm5ldCI6IndzIiwicGF0aCI6Ii92ZGUyLjBiYWQuY29tOjQ0My9jaGF0IiwicG9ydCI6IjQ0MyIsInBzIjoiTlVOIHZwbiIsInNjeSI6ImF1dG8iLCJzbmkiOiJsaXR0bGUtZGlzay1iOTYzLmtpbW1ld3Nlb2swNjcwNzcud29ya2Vycy5kZXYiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
