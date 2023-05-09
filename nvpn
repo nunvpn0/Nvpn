@@ -14,6 +14,7 @@ vless://f88c3cfb-5a46-455d-b26d-601efa1cfd24@figma.com:443?security=tls&sni=d2kj
 ------------------------------------------------------------------------------------------------------------------------
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@145.239.1.100:6679#NUN%20vpn
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@145.239.1.100:7002#NUN%20vpn
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@51.77.53.200:7306#NUN+vpn
 ---------------------------------------ir MTN-----------------------------------------------------------------------------
 vless://6deb272b-ee60-445f-d2bc-20ee86d91512@yat.olemam.shop:47246?type=tcp&path=%2F&host=fast.com&headerType=http#NUN+vpn
 vless://5c5641ee-8a0f-4618-ecfd-eb2244bab7ed@yat.olemam.shop:42765?type=tcp&path=%2F&host=fast.com&headerType=http#NUN+vpn
