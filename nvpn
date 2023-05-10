@@ -24,6 +24,9 @@ vless://ba189876-6fcd-4c43-bffb-d0e44c2feccb@cp2.independenttherapeutics.com:844
 vless://1160a1ba-6640-4407-ad0e-f4ee12ce2976@cp3.independenttherapeutics.com:8443?path=%2Fclient-area&security=tls&encryption=none&alpn=http/1.1&host=cp3.independenttherapeutics.com&fp=chrome&type=ws&sni=cp3.independenttherapeutics.com#NUN+vpn
 vless://dbf0d5e6-0ae2-43a7-bbdf-5eff1176da77@yat.olemam.shop:42341?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#NUN+vpn
 vless://c84b388f-6409-4bbf-cfd7-9c5d44979062@yat.olemam.shop:29624?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#NUN+vpn
+vless://dbf0d5e6-0ae2-43a7-bbdf-5eff1176da77@yat.olemam.shop:42341?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#NUN+vpn
+vless://c84b388f-6409-4bbf-cfd7-9c5d44979062@yat.olemam.shop:29624?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#NUN+vpn
+vless://1362aba9-1289-4233-a83b-44acd88fea2d@yat.olemam.shop:36797?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#NUN+vpn
 vless://1362aba9-1289-4233-a83b-44acd88fea2d@yat.olemam.shop:36797?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#NUN+vpn
 
 __________________________________worker MKH_____________________________________
