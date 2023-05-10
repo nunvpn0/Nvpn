@@ -20,6 +20,12 @@ vless://6deb272b-ee60-445f-d2bc-20ee86d91512@yat.olemam.shop:47246?type=tcp&path
 vless://5c5641ee-8a0f-4618-ecfd-eb2244bab7ed@yat.olemam.shop:42765?type=tcp&path=%2F&host=fast.com&headerType=http#NUN+vpn
 vless://c85ce4e3-41e4-4900-8f54-96b6e587b0bd@yat.olemam.shop:16038?type=tcp&path=%2F&host=fast.com&headerType=http#NUN+vpn
 vless://981b98b3-004f-4e08-b1df-f1be63303149@yat.olemam.shop:51979?type=tcp&path=%2F&host=zula.ir&headerType=http#NUN+vpn
+vless://ba189876-6fcd-4c43-bffb-d0e44c2feccb@cp2.independenttherapeutics.com:8443?path=%2Fclient-area&security=tls&encryption=none&alpn=http/1.1&host=cp2.independenttherapeutics.com&fp=chrome&type=ws&sni=cp2.independenttherapeutics.com#NUN+vpn
+vless://1160a1ba-6640-4407-ad0e-f4ee12ce2976@cp3.independenttherapeutics.com:8443?path=%2Fclient-area&security=tls&encryption=none&alpn=http/1.1&host=cp3.independenttherapeutics.com&fp=chrome&type=ws&sni=cp3.independenttherapeutics.com#NUN+vpn
+vless://dbf0d5e6-0ae2-43a7-bbdf-5eff1176da77@yat.olemam.shop:42341?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#NUN+vpn
+vless://c84b388f-6409-4bbf-cfd7-9c5d44979062@yat.olemam.shop:29624?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#NUN+vpn
+vless://1362aba9-1289-4233-a83b-44acd88fea2d@yat.olemam.shop:36797?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#NUN+vpn
+
 __________________________________worker MKH_____________________________________
 vmess://eyJhZGQiOiIxMDQuMjQuODAuMTA3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJsaXR0bGUtZGlzay1iOTYzLmtpbW1ld3Nlb2swNjcwNzcud29ya2Vycy5kZXYiLCJpZCI6IjkyNzA5NGQzLWQ2NzgtNDc2My04NTkxLWUyNDBkMGJjYWU4NyIsIm5ldCI6IndzIiwicGF0aCI6Ii92ZGUyLjBiYWQuY29tOjQ0My9jaGF0IiwicG9ydCI6IjQ0MyIsInBzIjoiTlVOIHZwbiIsInNjeSI6ImF1dG8iLCJzbmkiOiJsaXR0bGUtZGlzay1iOTYzLmtpbW1ld3Nlb2swNjcwNzcud29ya2Vycy5kZXYiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiI5NS4xNzkuMjQ3LjcxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJsaXR0bGUtZGlzay1iOTYzLmtpbW1ld3Nlb2swNjcwNzcud29ya2Vycy5kZXYiLCJpZCI6IjkyNzA5NGQzLWQ2NzgtNDc2My04NTkxLWUyNDBkMGJjYWU4NyIsIm5ldCI6IndzIiwicGF0aCI6Ii92ZGUyLjBiYWQuY29tOjQ0My9jaGF0IiwicG9ydCI6IjQ0MyIsInBzIjoiTlVOIHZwbiIsInNjeSI6ImF1dG8iLCJzbmkiOiJsaXR0bGUtZGlzay1iOTYzLmtpbW1ld3Nlb2swNjcwNzcud29ya2Vycy5kZXYiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
