@@ -19,6 +19,10 @@ vmess://ewogICAgImFkZCI6ICIxNDEuOTUuNi41NyIsCiAgICAiYWlkIjogIjY0IiwKICAgICJob3N0
 vless://dbf0d5e6-0ae2-43a7-bbdf-5eff1176da77@tay.olemam.shop:42339?security=&type=tcp&headerType=http&host=zula.ir#NUN%20vpn
 vless://c84b388f-6409-4bbf-cfd7-9c5d44979062@tay.olemam.shop:29622?security=&type=tcp&headerType=http&host=tgju.org#NUN%20vpn
 vless://1362aba9-1289-4233-a83b-44acd88fea2d@tay.olemam.shop:36794?security=&type=tcp&headerType=http&host=fast.com#NUN%20vpn
+vless://dbf0d5e6-0ae2-43a7-bbdf-5eff1176da77@tay.olemam.shop:42339?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#NUN+vpn
+vless://c84b388f-6409-4bbf-cfd7-9c5d44979062@tay.olemam.shop:29622?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#NUN+vpn
+vless://1362aba9-1289-4233-a83b-44acd88fea2d@tay.olemam.shop:36794?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#NUN+vpn
+
 __________________________________worker MKH_____________________________________
 
 ---------------------------------------worker MTN-----------------------------------------------------------------------------
