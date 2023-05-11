@@ -24,5 +24,10 @@ vless://c84b388f-6409-4bbf-cfd7-9c5d44979062@tay.olemam.shop:29622?security=none
 vless://1362aba9-1289-4233-a83b-44acd88fea2d@tay.olemam.shop:36794?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#NUN+vpn
 
 __________________________________worker MKH_____________________________________
+vless://0da42380-628c-4cb5-8dc0-cec5a7bf5e15@138.201.62.40:53568?security=tls&sni=filimo.persianmizban.com&type=tcp#NUN%20vpn
+vless://0da42380-628c-4cb5-8dc0-cec5a7bf5e15@filimo.persianmizban.com:53568?security=tls&sni=filimo.persianmizban.com&type=tcp#NUN%20vpn
+vless://206a83b5-a87d-4f47-a9c7-c0f534508795@figma.com:443?security=tls&sni=d1ibda8c7xvsbz.cloudfront.net&type=ws&path=/ws&host=d1ibda8c7xvsbz.cloudfront.net#NUN%20vpn
+vless://206a83b5-a87d-4f47-a9c7-c0f534508795@figma.com:80?security=&type=ws&path=/ws&host=d1ibda8c7xvsbz.cloudfront.net#NUN%20vpn
+vless://206a83b5-a87d-4f47-a9c7-c0f534508795@13.33.243.77:80?security=&type=ws&path=/ws&host=d1ibda8c7xvsbz.cloudfront.net#NUN%20vpn
 
 ---------------------------------------worker MTN-----------------------------------------------------------------------------
