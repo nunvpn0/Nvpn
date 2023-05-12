@@ -7,14 +7,11 @@ ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@193.108.118.34:2375#NUN+vpn
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@193.108.118.79:2375#NUN%20vpn
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@193.108.118.36:8009#NUN%20vpn
 ---------------------------------------ir MTN-----------------------------------------------------------------------------
-vmess://ewogICAgImFkZCI6ICIxNDEuOTUuNi41NyIsCiAgICAiYWlkIjogIjY0IiwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwKICAgICJuZXQiOiAidGNwIiwKICAgICJwYXRoIjogIiIsCiAgICAicG9ydCI6ICI1MDAwMiIsCiAgICAicHMiOiAiTlVOIHZwbiIsCiAgICAic2N5IjogImF1dG8iLAogICAgInNuaSI6ICIiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAibm9uZSIsCiAgICAidiI6ICIyIgp9Cg==
-vless://dbf0d5e6-0ae2-43a7-bbdf-5eff1176da77@tay.olemam.shop:42339?security=&type=tcp&headerType=http&host=zula.ir#NUN%20vpn
-vless://c84b388f-6409-4bbf-cfd7-9c5d44979062@tay.olemam.shop:29622?security=&type=tcp&headerType=http&host=tgju.org#NUN%20vpn
-vless://1362aba9-1289-4233-a83b-44acd88fea2d@tay.olemam.shop:36794?security=&type=tcp&headerType=http&host=fast.com#NUN%20vpn
-vless://dbf0d5e6-0ae2-43a7-bbdf-5eff1176da77@tay.olemam.shop:42339?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#NUN+vpn
-vless://c84b388f-6409-4bbf-cfd7-9c5d44979062@tay.olemam.shop:29622?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#NUN+vpn
-vless://1362aba9-1289-4233-a83b-44acd88fea2d@tay.olemam.shop:36794?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#NUN+vpn
-__________________________________worker MKH_____________________________________
+vless://dbf0d5e6-0ae2-43a7-bbdf-5eff1176da77@tay.olemam.shop:42337?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#NUN+vpn
+vless://c84b388f-6409-4bbf-cfd7-9c5d44979062@tay.olemam.shop:29620?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#NUN+vpn
+vless://1362aba9-1289-4233-a83b-44acd88fea2d@tay.olemam.shop:36789?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#NUN+vpn
+
+_________________________________worker MKH_____________________________________
 vless://0da42380-628c-4cb5-8dc0-cec5a7bf5e15@138.201.62.40:53568?security=tls&sni=filimo.persianmizban.com&type=tcp#NUN%20vpn
 vless://0da42380-628c-4cb5-8dc0-cec5a7bf5e15@filimo.persianmizban.com:53568?security=tls&sni=filimo.persianmizban.com&type=tcp#NUN%20vpn
 vless://206a83b5-a87d-4f47-a9c7-c0f534508795@figma.com:443?security=tls&sni=d1ibda8c7xvsbz.cloudfront.net&type=ws&path=/ws&host=d1ibda8c7xvsbz.cloudfront.net#NUN%20vpn
