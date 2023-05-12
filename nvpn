@@ -20,5 +20,12 @@ vless://0da42380-628c-4cb5-8dc0-cec5a7bf5e15@filimo.persianmizban.com:53568?secu
 vless://206a83b5-a87d-4f47-a9c7-c0f534508795@figma.com:443?security=tls&sni=d1ibda8c7xvsbz.cloudfront.net&type=ws&path=/ws&host=d1ibda8c7xvsbz.cloudfront.net#NUN%20vpn
 vless://206a83b5-a87d-4f47-a9c7-c0f534508795@figma.com:80?security=&type=ws&path=/ws&host=d1ibda8c7xvsbz.cloudfront.net#NUN%20vpn
 vless://206a83b5-a87d-4f47-a9c7-c0f534508795@13.33.243.77:80?security=&type=ws&path=/ws&host=d1ibda8c7xvsbz.cloudfront.net#NUN%20vpn
-
+vless://0c276a21-9edb-4bc1-b921-9741b92980e8@13.225.78.129:443?security=tls&sni=d1ibda8c7xvsbz.cloudfront.net&type=ws&path=/ws&host=d1ibda8c7xvsbz.cloudfront.net#NUN%20vpn
+vless://0c276a21-9edb-4bc1-b921-9741b92980e8@52.222.214.27:443?security=tls&sni=d1ibda8c7xvsbz.cloudfront.net&type=ws&path=/ws&host=d1ibda8c7xvsbz.cloudfront.net#NUN%20vpn
+vless://0c276a21-9edb-4bc1-b921-9741b92980e8@13.33.243.77:443?security=tls&sni=d1ibda8c7xvsbz.cloudfront.net&type=ws&path=/ws&host=d1ibda8c7xvsbz.cloudfront.net#NUN%20vpn
+vless://0c276a21-9edb-4bc1-b921-9741b92980e8@52.222.214.46:443?security=tls&sni=d1ibda8c7xvsbz.cloudfront.net&type=ws&path=/ws&host=d1ibda8c7xvsbz.cloudfront.net#NUN%20vpn
+vless://0c276a21-9edb-4bc1-b921-9741b92980e8@13.225.78.106:443?security=tls&sni=d1ibda8c7xvsbz.cloudfront.net&type=ws&path=/ws&host=d1ibda8c7xvsbz.cloudfront.net#NUN%20vpn
+vless://0c276a21-9edb-4bc1-b921-9741b92980e8@108.138.17.37:80?security=tls&sni=d1ibda8c7xvsbz.cloudfront.net&type=ws&path=/ws&host=d1ibda8c7xvsbz.cloudfront.net#NUN%20vpn
+vless://0c276a21-9edb-4bc1-b921-9741b92980e8@108.138.17.40:443?security=tls&sni=d1ibda8c7xvsbz.cloudfront.net&type=ws&path=/ws&host=d1ibda8c7xvsbz.cloudfront.net#NUN%20vpn
+vless://0c276a21-9edb-4bc1-b921-9741b92980e8@52.222.214.113:443?security=tls&sni=d1ibda8c7xvsbz.cloudfront.net&type=ws&path=/ws&host=d1ibda8c7xvsbz.cloudfront.net#NUN%20vpn
 ---------------------------------------worker MTN-----------------------------------------------------------------------------
