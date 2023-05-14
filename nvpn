@@ -11,7 +11,8 @@ vless://dbf0d5e6-0ae2-43a7-bbdf-5eff1176da77@tay.olemam.shop:42334?security=none
 vless://c84b388f-6409-4bbf-cfd7-9c5d44979062@tay.olemam.shop:29617?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#NUN+vpn
 vless://1362aba9-1289-4233-a83b-44acd88fea2d@tay.olemam.shop:36786?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#NUN+vpn
 vless://d3b915fb-1791-418e-adf2-00fe5ae31dcf@57.128.111.247:31621/?type=tcp&path=%2F&host=zula.ir&headerType=http#NUN vpn
-
+vless://4e0d5669-9ccb-4f9d-8159-2aa86ef4382c@57.128.111.247:20739?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#NUN+vpn
+vless://6a2ebcd5-cf7c-4971-f22b-e58607df856c@141.95.106.2:13582?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#NUN+vpn
 ______________________________worker MKH_____________________________________
 vless://0da42380-628c-4cb5-8dc0-cec5a7bf5e15@138.201.62.40:53568?security=tls&sni=filimo.persianmizban.com&type=tcp#NUN%20vpn
 vless://0da42380-628c-4cb5-8dc0-cec5a7bf5e15@filimo.persianmizban.com:53568?security=tls&sni=filimo.persianmizban.com&type=tcp#NUN%20vpn
