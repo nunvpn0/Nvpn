@@ -8,16 +8,8 @@ ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@193.108.118.34:2375#NUN+vpn
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@193.108.118.79:2375#NUN%20vpn
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@193.108.118.36:8009#NUN%20vpn
 ---------------------------------------ir MTN-----------------------------------------------------------------------------
-vless://4e0d5669-9ccb-4f9d-8159-2aa86ef4382c@57.128.111.247:20739?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#NUN+vpn
-vless://d3b915fb-1791-418e-adf2-00fe5ae31dcf@57.128.111.247:31621?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#NUN+vpn
-vmess://eyJhZGQiOiJ1cy0xNS4wcmQubmV0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjkzMTQzNWIwLWYzNDctMTFlZC1iMTM3LTIwNWM2ZDVmNWQ3OCIsIm5ldCI6IndzIiwicGF0aCI6Ii9zYnVtZHJwZSIsInBvcnQiOiI0NDMiLCJwcyI6Ik5VTiB2cG4odXMpIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiJ1cy0xNS4wcmQubmV0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjkzMTQzNWIwLWYzNDctMTFlZC1iMTM3LTIwNWM2ZDVmNWQ3OCIsIm5ldCI6IndzIiwicGF0aCI6Ii9zYnVtZHJwZSIsInBvcnQiOiI4MCIsInBzIjoiTlVOIHZwbih1cykiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
-vless://3225e613-9bee-422e-ce1f-35bbcbd4d1d0@5.75.211.36:21005?security=none&encryption=none&host=exo.ir&headerType=http&type=tcp#NUN+vpn%28MTN%29
-vless://963e399f-52e7-484e-ee28-be42fd42e792@5.75.211.36:56438?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#NUN+vpn%28MTN%29
-vless://1e6c3ba1-1bc5-4365-f6f4-3fcef4a345c1@5.75.211.36:21243?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#NUN+vpn%28MTN%29
-vless://3225e613-9bee-422e-ce1f-35bbcbd4d1d0@5.75.211.36:21005?security=tls&sni=exo.ir&type=tcp&headerType=http&host=exo.ir#NUN%20vpn
-vless://963e399f-52e7-484e-ee28-be42fd42e792@5.75.211.36:56438?security=tls&sni=zula.ir&type=tcp&headerType=http&host=zula.ir#NUN%20vpn
-vless://1e6c3ba1-1bc5-4365-f6f4-3fcef4a345c1@5.75.211.36:21243?security=tls&sni=fast.com&type=tcp&headerType=http&host=fast.com#NUN%20vpn
+vless://479053f0-4c4b-4859-ad3a-9b0f106278c9@51.68.165.13:49037?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#NUN+vpn%28MTN%29
+
 _____________________________worker MKH_____________________________________
 
 ss://YWVzLTI1Ni1nY206VFE3dlVNaA==@49.13.2.107:38622#NUN+vpn
