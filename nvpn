@@ -21,3 +21,8 @@ ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@149.202.82.172:8091#NUN%20vpn
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:3306#NUN%20vpn
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@193.108.118.79:7306#NUN%20vpn
 ---------------------------------------worker MTN-----------------------------------------------------------------------------
+vless://4e0d5669-9ccb-4f9d-8159-2aa86ef4382c@57.128.111.247:20739?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#NUN+vpn
+vless://d3b915fb-1791-418e-adf2-00fe5ae31dcf@57.128.111.247:31621?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#NUN+vpn
+vmess://eyJhZGQiOiJ1cy0xNS4wcmQubmV0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjkzMTQzNWIwLWYzNDctMTFlZC1iMTM3LTIwNWM2ZDVmNWQ3OCIsIm5ldCI6IndzIiwicGF0aCI6Ii9zYnVtZHJwZSIsInBvcnQiOiI0NDMiLCJwcyI6Ik5VTiB2cG4odXMpIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiJ1cy0xNS4wcmQubmV0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjkzMTQzNWIwLWYzNDctMTFlZC1iMTM3LTIwNWM2ZDVmNWQ3OCIsIm5ldCI6IndzIiwicGF0aCI6Ii9zYnVtZHJwZSIsInBvcnQiOiI4MCIsInBzIjoiTlVOIHZwbih1cykiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
+
