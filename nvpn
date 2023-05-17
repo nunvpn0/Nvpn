@@ -12,6 +12,9 @@ ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@193.108.118.79:2375#NUN%20vpn
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@193.108.118.36:8009#NUN%20vpn
 ---------------------------------------ir MTN-----------------------------------------------------------------------------
 vless://479053f0-4c4b-4859-ad3a-9b0f106278c9@51.68.165.13:49037?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#NUN+vpn%28MTN%29
+vmess://eyJhZGQiOiIxODguMTE0Ljk2LjMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImxpdHRsZS1kaXNrLWI5NjMua2ltbWV3c2VvazA2NzA3Ny53b3JrZXJzLmRldiIsImlkIjoiNjE0N0YwNjUtOUFDMC00MDgxLUE1QTMtQTJFQjRFQkI4OTU4IiwibmV0Ijoid3MiLCJwYXRoIjoiL0xpbGxlLmtvdGljay5zaXRlOjQ0My9zcGVlZHRlc3QiLCJwb3J0IjoiNDQzIiwicHMiOiJOVU4gdnBuKENBKSIsInNjeSI6ImF1dG8iLCJzbmkiOiJsaXR0bGUtZGlzay1iOTYzLmtpbW1ld3Nlb2swNjcwNzcud29ya2Vycy5kZXYiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vless://efee2764-7a66-41ca-93f3-e07bb39d07bc@57.128.114.109:59481?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#NUN+vpn
+vless://03573c07-a376-4d64-ef41-5a48d64ca826@57.128.114.109:13826?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#NUN+vpn
 
 _____________________________worker MKH_____________________________________
 
