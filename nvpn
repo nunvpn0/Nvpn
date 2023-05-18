@@ -17,14 +17,8 @@ vless://1e6c3ba1-1bc5-4365-f6f4-3fcef4a345c1@sss.melo-sus.shop:21238?security=no
 
 _____________________________worker MKH_____________________________________
 
-ss://YWVzLTI1Ni1nY206VFE3dlVNaA==@49.13.2.107:38622#NUN+vpn
-ss://YWVzLTI1Ni1nY206MGE2ZDhiNGUtMDlhZC00ZWM4LWEyYjgtY2ZmZjM2M2JjZDg0@20.212.192.31:11627#NUN%20vpn
-vmess://ewogICAgImFkZCI6ICIxNzIuNjcuNzIuMTk0IiwKICAgICJhaWQiOiAiMCIsCiAgICAiaG9zdCI6ICJ2Yy5zY3l1LmFwcCIsCiAgICAiaWQiOiAiMDc0YzcwZDEtNzQ3OS00NzgxLWNmNmQtZTc2NTE1ZDRiMGIzIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6ICI4MCIsCiAgICAicHMiOiAiTlVOIHZwbiIsCiAgICAic2N5IjogImF1dG8iLAogICAgInNuaSI6ICIiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAidiI6ICIyIgp9Cg==
-vmess://ewogICAgImFkZCI6ICIxNjUuMjI3LjEzMy41NSIsCiAgICAiYWlkIjogIjAiLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICJkZjY4ZjY3OC02MmMzLTQ3OTktOTFhOC00ZDMwMWU4Y2Y1NjUiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvUEdWMnZ0TXZ4d05GdDIiLAogICAgInBvcnQiOiAiODAiLAogICAgInBzIjogIk5VTiB2cG4iLAogICAgInNjeSI6ICJhdXRvIiwKICAgICJzbmkiOiAiIiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInYiOiAiMiIKfQo=
-vmess://ewogICAgImFkZCI6ICI2Ni44MS4yNDcuMjQwIiwKICAgICJhaWQiOiAiMCIsCiAgICAiaG9zdCI6ICJmcmRucy5tYWluc3NoLnh5eiIsCiAgICAiaWQiOiAiZDExMmFmODgtNGMzOC00NjEwLTkwYWYtN2JjMTJlZWE5MzIwIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL3YycmF5ZG5zIiwKICAgICJwb3J0IjogIjQ0MyIsCiAgICAicHMiOiAiTlVOIHZwbiIsCiAgICAic2N5IjogImF1dG8iLAogICAgInNuaSI6ICJmcmRucy5tYWluc3NoLnh5eiIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJ2IjogIjIiCn0K
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@149.202.82.172:8091#NUN%20vpn
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:3306#NUN%20vpn
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@193.108.118.79:7306#NUN%20vpn
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@149.202.82.172:8091#NUN+vpn
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:3306#NUN+vpn
 ---------------------------------------worker MTN-----------------------------------------------------------------------------
 vless://4e0d5669-9ccb-4f9d-8159-2aa86ef4382c@57.128.111.247:20739?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#NUN+vpn
 vless://d3b915fb-1791-418e-adf2-00fe5ae31dcf@57.128.111.247:31621?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#NUN+vpn
