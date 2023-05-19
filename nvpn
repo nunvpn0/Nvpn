@@ -24,14 +24,6 @@ vless://d2a536bb-f466-4d8f-c182-5e6a369d0c32@5.161.20.101:56703?security=none&en
 vless://defab7ba-d5e8-46da-afad-33d453f6f5ee@5.161.20.101:56703?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#NUN+vpn
 vless://2f340400-86f2-454a-ff1b-096795af4afa@5.161.20.101:56703?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#NUN+vpn
 
-
 _____________________________worker MKH_____________________________________
-
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@149.202.82.172:8091#NUN+vpn
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:3306#NUN+vpn
----------------------------------------worker MTN-----------------------------------------------------------------------------
-vless://4e0d5669-9ccb-4f9d-8159-2aa86ef4382c@57.128.111.247:20739?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#NUN+vpn
-vless://d3b915fb-1791-418e-adf2-00fe5ae31dcf@57.128.111.247:31621?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#NUN+vpn
-vmess://eyJhZGQiOiJ1cy0xNS4wcmQubmV0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjkzMTQzNWIwLWYzNDctMTFlZC1iMTM3LTIwNWM2ZDVmNWQ3OCIsIm5ldCI6IndzIiwicGF0aCI6Ii9zYnVtZHJwZSIsInBvcnQiOiI0NDMiLCJwcyI6Ik5VTiB2cG4odXMpIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiJ1cy0xNS4wcmQubmV0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjkzMTQzNWIwLWYzNDctMTFlZC1iMTM3LTIwNWM2ZDVmNWQ3OCIsIm5ldCI6IndzIiwicGF0aCI6Ii9zYnVtZHJwZSIsInBvcnQiOiI4MCIsInBzIjoiTlVOIHZwbih1cykiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
-
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@149.202.82.172:8091#NUN+vpn
