@@ -1,3 +1,8 @@
+vless://cc0e7c9b-b9a1-4141-bfe0-04a50ee96ada@cp6.independenttherapeutics.com:8443?path=%2Fclient-area&security=tls&encryption=none&alpn=http/1.1&host=cp6.independenttherapeutics.com&fp=chrome&type=ws&sni=cp6.independenttherapeutics.com#NUN+vpn
+vless://61df8a16-8d43-4be9-9643-44ff0d1626e9@cp7.independenttherapeutics.com:8443?path=%2Fclient-area&security=tls&encryption=none&alpn=http/1.1&host=cp7.independenttherapeutics.com&fp=chrome&type=ws&sni=cp7.independenttherapeutics.com#NUN+vpn
+vless://1d778a64-49be-4842-90b6-dc888a2eefa6@91.107.173.140:50109?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#NUN+vpn
+vless://1d778a64-49be-4842-90b6-dc888a2eefa6@91.107.173.140:50109?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#NUN+vpn
+vless://1d778a64-49be-4842-90b6-dc888a2eefa6@91.107.173.140:50109?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#NUN+vpn
 ss://YWVzLTI1Ni1nY206anNDUmJNNmZTeQ==@1d.mtnnet.sbs:34723#NUN+vpn
 ss://YWVzLTI1Ni1nY206anNDUmJNNmZTeQ==@49.13.2.107:34723#NUN+vpn
 vmess://eyJhZGQiOiJ2NC5zb2xvcy5zYnMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IkZhc3QuY29tIiwiaWQiOiJjMzVkMTMzZS1lNjgyLTQ0YzEtY2E5NS1hODEwYmI5NDQ1NjgiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI5MDkiLCJwcyI6Ik5VTiB2cG4iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
