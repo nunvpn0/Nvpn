@@ -1,3 +1,5 @@
+trojan://telegram-id-directvpn@35.158.187.4:22222?security=tls&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#NUNvpn%28N%29
+vmess://eyJhZGQiOiIxNzIuODEuMTMxLjc3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJpbnRlcm5ldC5saWZlLmNvbS5ieSIsImlkIjoiOWMwNTBhODYtZDYxMi00OGYxLWVjMzItZTU3M2RmMDhhMWI3IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMzM4OSIsInBzIjoiTlVOdnBuKE4pIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
 vless://0f7c43be-84aa-427e-95cc-bc79d2212d6e@kurd----join.outline-vpn.cloud:20605?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#NUNvpn%28AK%29
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#NUNvpn%28AK%29
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#NUNvpn%28AK%29
