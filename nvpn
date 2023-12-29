@@ -1,6 +1,6 @@
 trojan://telegram-id-privatevpns@35.181.255.41:22222?security=tls&sni=trj.rollingnext.co.uk&alpn=http/1.1&type=tcp#6219-8610-3439-3834
-trojan://telegram-id-privatevpns@18.171.68.17:22222?security=tls&sni=trj.rollingnext.co.uk&alpn=http/1.1&type=tcp#%D8%AF%D9%85%D8%AF%D9%85%D9%88%D9%86%20%DA%AF%D8%B1%D9%85
-trojan://telegram-id-privatevpns@13.49.45.123:22222?security=tls&sni=trj.rollingnext.co.uk&alpn=http/1.1&type=tcp#%D8%A8%D8%A8%D8%AE%D8%B4%DB%8C%D9%86%D8%A7
+trojan://telegram-id-privatevpns@18.171.68.17:22222?security=tls&sni=trj.rollingnext.co.uk&alpn=http/1.1&type=tcp#NUNvpn(HS)
+trojan://telegram-id-privatevpns@13.49.45.123:22222?security=tls&sni=trj.rollingnext.co.uk&alpn=http/1.1&type=tcp#NUNvpn(HS)
 trojan://telegram-id-privatevpns@99.80.118.247:22222?security=tls&sni=trj.rollingnext.co.uk&alpn=http/1.1&type=tcp#NUNvpn(HS)
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.195:443#NUNvpn%28ML%29
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@149.202.82.172:5003#NUNvpn%28ML%29
